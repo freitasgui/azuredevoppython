@@ -5,7 +5,7 @@ Integração AzureDevops com Python para diversas finalidades, como por exemplo,
 
 ## 1. Para obter a "Organização", acesse o projeto e copie o que aparece após "https://dev.azure.com/":
 
-![image](https://github.com/freitasgui/azuredevopspython/assets/117831172/226924c9-b617-428e-acbd-87fc0a48304f)
+![image](https://github.com/freitasgui/azuredevopspython/assets/117831172/19955f74-9f62-4ad7-b8a4-ef70c7ad028d)
 
 No exemplo acima, a organização seria: "PROJETOGUI"
 
